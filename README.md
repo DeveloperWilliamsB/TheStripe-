@@ -1,1 +1,1 @@
-Press * and Skip the + number. 
+Press * and skip the + number. 
